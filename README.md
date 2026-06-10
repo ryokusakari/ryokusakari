@@ -11,5 +11,5 @@ Past projects:
 
 ## Fun facts
 - :octocat: I have a cat called chao chao
-- 👯 I am a member of a professional hip hop freestyle dance team 
-- 🦐 I often go to the 4 am seafood market just for fresh shrimp and scallop
+- 👯 I am a member of a hip hop freestyle dance team 
+- 🦐 I often go to the 5 am seafood market just for fresh shrimp and scallop
