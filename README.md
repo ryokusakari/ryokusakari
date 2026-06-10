@@ -2,7 +2,7 @@
 
 I'm Ryo, an MSc Applied Computational Science student at Imperial College London
 
-My work has focused primarily on biomedical data analysis using ML models, and using transcriptomic and metabolomic data to understand disease. 
+I train ML models to analyse clinical data and understand disease. 
 I am proficient in R and Python, and particularly in DESeq2 and scikit-learn. 
 
 Past projects:
