@@ -10,6 +10,6 @@ Past projects:
 - Predictive Modelling of PD-L2 Biomarker Expression from Lung Cancer Metabolomics: trained MLP to build a regressor for predictive biomarker expression in lung cancer
 
 ## Fun facts
-- I have a cat called chao chao :octocat:
-- I am a member of a professional hip hop freestyle dance team 👯
-- I often go to the 4 am seafood market just for fresh shrimp and scallop 🦐
+- :octocat: I have a cat called chao chao
+- 👯 I am a member of a professional hip hop freestyle dance team 
+- 🦐 I often go to the 4 am seafood market just for fresh shrimp and scallop
