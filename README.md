@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there! 🐈‍⬛
 
-<!--
-**ryokusakari/ryokusakari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ryo, an MSc Applied Computational Science student at Imperial College London
 
-Here are some ideas to get you started:
+My work has focused primarily on biomedical data analysis using ML models, and using transcriptomic and metabolomic data to understand disease. 
+I am proficient in R and Python, and particularly in DESeq2 and scikit-learn. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Past projects:
+- ML Classifier for Invasive Salmonellosis Using Blood Transcriptomics (CHANTS Study): utilised Elastic Net, Random Forrest and Linear SVM models to build a disease classifier
+- Predictive Modelling of PD-L2 Biomarker Expression from Lung Cancer Metabolomics: trained MLP to build a regressor for predictive biomarker expression in lung cancer
+
+## Fun facts
+- I have a cat called chao chao :octocat:
+- I am a member of a professional hip hop freestyle dance team 👯
+- I often go to the 4 am seafood market just for fresh shrimp and scallop 🦐
